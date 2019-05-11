@@ -1,4 +1,4 @@
-#categor#!/usr/bin/env python
+#!/usr/bin/env python
 
 # Import the sys library 
 # for writing and reading the standard input and output
